@@ -1,0 +1,4 @@
+build/
+gen/
+.vscode/
+node_modules/
